@@ -1,4 +1,4 @@
-Project: Recipes
+**Project: Recipes**
 
 It’s time to put all of the HTML knowledge I've been acquired so far
 into practice.
